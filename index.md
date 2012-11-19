@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Welcome to Nicko Gong's blog
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
