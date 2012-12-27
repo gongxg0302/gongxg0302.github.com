@@ -1,0 +1,12 @@
+---
+comments: true
+date: 2010-03-13 08:45:36
+layout: post
+slug: '%e8%af%95%e4%b8%80%e4%b8%8b%e6%89%8b%e6%9c%ba%e5%86%99%e5%8d%9a%e5%93%88'
+title: 试一下手机写博哈~
+wordpress_id: 18
+categories:
+- 未分类
+---
+
+Powered by Nokia 6220c + Opera mobile 10 beta.

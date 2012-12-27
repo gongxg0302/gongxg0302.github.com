@@ -1,0 +1,18 @@
+---
+comments: true
+date: 2010-03-08 14:14:49
+layout: post
+slug: '%e5%87%86%e5%a4%87%e4%b8%8b%ef%bc%8c%e6%8d%a2%e6%88%90%e5%9f%ba%e4%ba%8eopenvz%e7%9a%84%e8%99%9a%e6%8b%9f%e4%b8%bb%e6%9c%ba%ef%bc%81'
+title: 准备下，换成基于OpenVZ的虚拟主机！
+wordpress_id: 14
+categories:
+- 未分类
+---
+
+RapidXen的钱付到四月初，5.99刀/mon。每月40多块，都抵过我的手机费了... 就只有godaddy的域名费还算便宜。看重一家叫
+
+Spacerich的OpenVZ主机，256MB RAm  384MB Burst，只要3.99刀（30都不到），比Ramhost都便宜。当然便宜的价钱就注定要牺牲掉一点东西的比如：pptpd openvpn(配置太麻烦)、内存超过384MB服务器就撞墙了（can't allocate memory）。所以网站的架构就要优化一下了，Xen就没有这种情况了（只有价格因素）。
+
+PS.最近要折腾的东西还真实多呢 Belkin 7231-4 的dd-wrt 固件、VPS、还有一个字没动的论文。哎...
+
+PS2.刚才看了下这家VPS提供商space确实很rich有25GB，很对得起名字。

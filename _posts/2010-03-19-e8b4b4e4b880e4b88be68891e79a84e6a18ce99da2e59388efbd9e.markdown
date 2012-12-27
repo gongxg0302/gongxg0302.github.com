@@ -1,0 +1,13 @@
+---
+comments: true
+date: 2010-03-19 16:17:45
+layout: post
+slug: '%e8%b4%b4%e4%b8%80%e4%b8%8b%e6%88%91%e7%9a%84%e6%a1%8c%e9%9d%a2%e5%93%88%ef%bd%9e'
+title: 贴一下我的桌面哈～
+wordpress_id: 25
+categories:
+- 未分类
+---
+
+[![](http://citycatcher.info/wp-content/uploads/2010/03/Screenshot-300x187.png)](http://citycatcher.info/wp-content/uploads/2010/03/Screenshot.png)
+

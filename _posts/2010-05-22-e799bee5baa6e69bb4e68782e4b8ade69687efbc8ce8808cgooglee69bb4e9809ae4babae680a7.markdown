@@ -1,0 +1,16 @@
+---
+comments: true
+date: 2010-05-22 03:27:31
+layout: post
+slug: '%e7%99%be%e5%ba%a6%e6%9b%b4%e6%87%82%e4%b8%ad%e6%96%87%ef%bc%8c%e8%80%8cgoogle%e6%9b%b4%e9%80%9a%e4%ba%ba%e6%80%a7'
+title: 百度更懂中文，而Google更通人性~
+wordpress_id: 122
+categories:
+- 未分类
+---
+
+[![](http://citycatcher.info/wp-content/uploads/2010/05/google-300x151.jpg)](http://citycatcher.info/wp-content/uploads/2010/05/google.jpg)
+昨天，也就是周五。结束了一天劳累的我先完澡在11点打开电脑，随着这破电脑不急不慢的启动一股倦意涌上心头。打开脑残的锐捷连上电信点开firefox，当然以上操作对于一个在大学这个大阴沟里生活了四年的动物来说都是无意识的。firefox在疯狂的摧残了我的硬盘后终于跳到了Google的首页，然后发生的事便和许多在这时打开Google首页的人一样...疯狂的玩吃豆子，直到上Twitter后，看到整个Twitter都为Google而疯狂...
+
+BTW.Google已经推出了https加密搜索，以后搜什么想胡萝卜之类的猥琐词Google再也不会一下子不见了...
+https://www.google.com

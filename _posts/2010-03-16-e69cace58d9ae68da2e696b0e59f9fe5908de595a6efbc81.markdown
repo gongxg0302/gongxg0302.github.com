@@ -1,0 +1,13 @@
+---
+comments: true
+date: 2010-03-16 14:21:59
+layout: post
+slug: '%e6%9c%ac%e5%8d%9a%e6%8d%a2%e6%96%b0%e5%9f%9f%e5%90%8d%e5%95%a6%ef%bc%81'
+title: 本博换新域名啦！~
+wordpress_id: 20
+categories:
+- 未分类
+---
+
+Godaddy买的。.info的好处是便宜，才1.09刀,坏处是和某些少儿不宜的网站根域名一样。
+既然有自己的站了那就靠这个小站赚点小钱吧，呵呵。推荐一本好书《Get on the top of Google》。
