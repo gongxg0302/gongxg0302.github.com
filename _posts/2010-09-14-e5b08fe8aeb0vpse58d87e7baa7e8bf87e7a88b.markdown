@@ -1,0 +1,25 @@
+---
+comments: true
+date: 2010-09-14 02:47:35
+layout: post
+slug: '%e5%b0%8f%e8%ae%b0vps%e5%8d%87%e7%ba%a7%e8%bf%87%e7%a8%8b'
+title: 小记VPS升级过程~
+wordpress_id: 136
+categories:
+- 技术
+tags:
+- VPS
+---
+
+恩,又一个多月没写bo了.前两天交完VPS的费用(md,做主机商真tm赚钱~),顺手进后台逛逛.发现defaultpannel提供Ubuntu 10.04的镜像了.于是n久没复习Linux的me又google一番,经过n多挫折后把之前Ubuntu 9.04上所有服务都恢复了(先提供包括:OpenVPN;PPTP VPN;Twitter web client;Blog(仅自己) 未来将添加Twip4 Twitter api服务).
+首先,打包/var/www/*下所有文件tar -zcvf ~/web.tar.gz /var/www/到/home/[user] ;进phpmyadmin把wordpress的数据库导出成xxx.sql.
+而后,用WinSCP把OpenVPN;PPTP VPN;Lighttpd;MySQL的配置文件,key保存到本地.
+随后就可以reinstall VPS了.
+After reinstall Ubuntu 10.04 then
+apt-get ...(此处省略n多软件包名)
+解包web.tar.gz到/var/www(只需把打包的参数z替换为x).
+不知道是我没选数据库名还是phpmyadmin的问题,phpmyadmin把我整个MySQL所有database全部导出来了.最后在1M+的文件里把wordpress数据库的SQL语句单独整理出来执行.期间,因为要上Twitter的缘故.把apache2开着,结果不知道那个贱货reinstall了我的wordpress...饿,不追究乃了,apache的日志文件太庞大了~
+
+PS.下篇博文预告{我们为什么喜欢iPhone}有我iPhone的PP~
+
+
