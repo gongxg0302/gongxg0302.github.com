@@ -98,6 +98,8 @@ tags:
 
 以上命令将内核模块安装在../modules,生成kernel.img文件。
 最后把../modules里的/lib/modules&/lib/firmware替换Rpi里相同目录，kernel.img拷到SD卡第一个FAT32分区就行了。
-本文参考了：[http://blog.saladlam.info/index.php/Notepad/?p=169&more;=1&c;=1&tb;=1&pb;=1](http://blog.saladlam.info/index.php/Notepad/?p=169&more=1&c=1&tb=1&pb=1)
-                [http://mitchtech.net/raspberry-pi-kernel-compile/](http://mitchtech.net/raspberry-pi-kernel-compile/)
-                [http://www.bootc.net/](http://www.bootc.net/)
+  
+  本文参考了：  
+  [http://blog.saladlam.info/index.php/Notepad/?p=169&more;=1&c;=1&tb;=1&pb;=1](http://blog.saladlam.info/index.php/Notepad/?p=169&more=1&c=1&tb=1&pb=1)  
+  [http://mitchtech.net/raspberry-pi-kernel-compile/](http://mitchtech.net/raspberry-pi-kernel-compile/)  
+  [http://www.bootc.net/](http://www.bootc.net/)

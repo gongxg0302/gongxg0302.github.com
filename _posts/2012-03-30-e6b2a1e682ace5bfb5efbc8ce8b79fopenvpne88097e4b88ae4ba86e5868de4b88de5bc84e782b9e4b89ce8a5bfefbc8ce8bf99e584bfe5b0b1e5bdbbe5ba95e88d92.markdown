@@ -14,7 +14,7 @@ tags:
 - VPN
 ---
 
-和[上次](http://blog.izheteng.us/?p=209)的不一样，这次OpenVPN在OpenWRT上做服务端。服务端有两种模式第一种就是在VPS上跑的模式（具体叫什么答不上来了）Tun/Tap设备是一个单独的子网。第二种叫桥接模式。就是tap设备与路由器上的lan口绑定，成为内网的一部分（用brctl show在Openwrt上看，eth0.X、Wlan0是绑在一起的。新接口是br-lan）。
+这次OpenVPN在OpenWRT上做服务端。服务端有两种模式第一种就是在VPS上跑的模式（具体叫什么答不上来了）Tun/Tap设备是一个单独的子网。第二种叫桥接模式。就是tap设备与路由器上的lan口绑定，成为内网的一部分（用brctl show在Openwrt上看，eth0.X、Wlan0是绑在一起的。新接口是br-lan）。
 通俗的说相当于在任何能连接Internet的地方，有一根直接通向你路由器内网的网线。解释完，上配置文件！
 /etc/config/openvpn
 
